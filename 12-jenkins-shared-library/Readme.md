@@ -71,7 +71,7 @@ pipeline {
         }
     }
 }
-```
+``` 
 
 ## Notes
 - Configure your Shared Library under: Manage Jenkins → Configure System → Global Pipeline Libraries
