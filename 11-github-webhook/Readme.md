@@ -32,7 +32,7 @@ This enables **Continuous Integration (CI)** and **Continuous Deployment (CD)** 
 ```
 <JENKINS_URL>/github-webhook/
 ```
-
+ 
 
 <img width="2880" height="1162" alt="image" src="https://github.com/user-attachments/assets/9838bb58-62b5-4f2d-a5ea-47b2e1af1c7e" />
 
