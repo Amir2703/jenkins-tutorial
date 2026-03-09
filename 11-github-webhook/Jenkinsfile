@@ -1,0 +1,21 @@
+pipeline {
+    agent any
+    stages {
+        stage('Clone Github Repository') {
+            steps {
+                sh 'echo "hello"'
+            }
+        }               
+    }
+    post {
+        always {
+            cleanWs()
+        }
+        success {
+            echo 'Pipeline completed successfully!'
+        }
+        failure {
+            echo 'Pipeline failed!'
+        }
+    }
+}
