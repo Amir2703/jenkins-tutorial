@@ -41,7 +41,7 @@ This enables **Continuous Integration (CI)** and **Continuous Deployment (CD)** 
 
 
 <img width="2876" height="798" alt="image" src="https://github.com/user-attachments/assets/ab5a6b45-c609-4f35-b039-dda1325aaa4d" /> 
-
+ 
 ---
 
 **In summary:**  
